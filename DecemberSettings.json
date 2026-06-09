@@ -75,13 +75,15 @@
     "21": [
       {
         "Type": "Exam",
-        "Title": "Final Exams"
+        "Title": "Final Exams",
+        "ListDetails": [ "Hearts", "Attend" ]
       }
     ],
     "22": [
       {
         "Type": "Exam",
-        "Title": "Final Exams"
+        "Title": "Final Exams",
+        "ListDetails": [ "Japan", "Dreadnought" ]
       }
     ],
     "24": [

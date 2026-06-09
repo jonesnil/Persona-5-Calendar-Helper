@@ -25,11 +25,38 @@
         "Footnote": "MALAISE"
       }
     ],
+    "11": [
+      {
+        "Type": "Exam",
+        "Title": "Midterm Exams",
+        "ListDetails": [ "Minamoto no Yoshitsune", "Minamoto no Yoritomo", "Yoritomo won", "The weak" ]
+      }
+    ],
+    "12": [
+      {
+        "Type": "Exam",
+        "Title": "Midterm Exams",
+        "ListDetails": [ "Cognition", "Both" ]
+      }
+    ],
+    "13": [
+      {
+        "Type": "Exam",
+        "Title": "Midterm Exams",
+        "ListDetails": [ "The Devil's Dictionary", "Femme Fatale" ]
+      }
+    ],
     "18": [
       {
         "Type": "Puzzle",
         "Title": "Crossword",
         "Footnote": "GALLERY"
+      }
+    ],
+    "20": [
+      {
+        "Type": "Exam",
+        "Title": "Exam Scores"
       }
     ],
     "26": [

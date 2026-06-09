@@ -49,25 +49,22 @@
     "17": [
       {
         "Type": "Exam",
-        "Title": "Midterm Exams"
+        "Title": "Midterm Exams",
+        "ListDetails": [ "32 surfaces", "It used to be one color", "Black and white pictures" ]
       }
     ],
     "18": [
       {
         "Type": "Exam",
-        "Title": "Midterm Exams"
+        "Title": "Midterm Exams",
+        "ListDetails": [ "Charles-Henri Sanson", "It's a hereditary profession" ]
       }
     ],
     "19": [
       {
         "Type": "Exam",
-        "Title": "Midterm Exams"
-      }
-    ],
-    "20": [
-      {
-        "Type": "Exam",
-        "Title": "Midterm Exams"
+        "Title": "Midterm Exams",
+        "ListDetails": [ "Slave labor", "3 bees in all of Europe" ]
       }
     ],
     "23": [

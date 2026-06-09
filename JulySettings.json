@@ -32,6 +32,27 @@
         "Footnote": "VACATION"
       }
     ],
+    "13": [
+      {
+        "Type": "Exam",
+        "Title": "Final Exams",
+        "ListDetails": [ "64 Degrees", "Zhuge Liang", "Barbarians' heads", "To offer them instead of heads" ]
+      }
+    ],
+    "14": [
+      {
+        "Type": "Exam",
+        "Title": "Final Exams",
+        "ListDetails": [ "Red King Crab (Paralithodes)", "It caused confusion in the economy" ]
+      }
+    ],
+    "15": [
+      {
+        "Type": "Exam",
+        "Title": "Final Exams",
+        "ListDetails": [ "Raining cats and dogs", "Demon Guts" ]
+      }
+    ],
     "17": [
       {
         "Type": "Jazz Club",
@@ -40,6 +61,10 @@
       }
     ],
     "19": [
+      {
+        "Type": "Exam",
+        "Title": "Exam Scores"
+      },
       {
         "Type": "Puzzle",
         "Title": "Crossword",
