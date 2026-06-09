@@ -18,11 +18,25 @@
         "Footnote": "Erects a shield on 1 ally to repel 1 (non-Almighty) Physical or Gun attack."
       }
     ],
+    "6": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "BLACK"
+      }
+    ],
     "9": [
       {
         "Type": "Jazz Club",
         "Title": "Matarukaja",
         "Footnote": "Increases party's Attack power by 40% for 3 turns."
+      }
+    ],
+    "10": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "HALLOWEEN"
       }
     ],
     "16": [
@@ -74,6 +88,13 @@
         "Type": "Jazz Club",
         "Title": "Makarakarn",
         "Footnote": "Erects a shield on 1 ally to repel 1 (non-Almighty) magical attack."
+      }
+    ],
+    "31": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "STALLS"
       }
     ]
   },

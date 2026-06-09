@@ -1,0 +1,139 @@
+{
+  "startingDate": 29,
+  "startingOutOfMonth": 1,
+  "lastOutOfMonthDate": 31,
+  "previousMonth": "January",
+  "previousMonthNum": 1,
+  "currentMonth": "February",
+  "currentMonthNum": 2,
+  "currentMonthEndDate": 28,
+  "nextMonth": "March",
+  "nextMonthNum": 3,
+  "year": "2017",
+  "dayToEvents": {
+  },
+  "dayToWeather": {
+    "1": {
+      "WeatherDay": "Clear",
+      "WeatherNight": "Snow"
+    },
+    "2": {
+      "WeatherDay": "Snow",
+      "WeatherNight": "Snow"
+    },
+    "15": {
+      "WeatherDay": "Snow",
+      "WeatherNight": "Snow"
+    }
+  },
+  "dayToFreeTime": {
+    "2": {
+      "DaySlot": "Free",
+      "NightSlot": "Blocked"
+    },
+    "3": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "4": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "5": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "6": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "7": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "8": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "9": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "10": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "11": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "12": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "13": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "14": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "15": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "16": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "17": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "18": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "19": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "20": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "21": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "22": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "23": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "24": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "25": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "26": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "27": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "28": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    }
+  }
+}

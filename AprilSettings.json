@@ -11,6 +11,20 @@
   "nextMonthNum": 5,
   "year": "2016",
   "dayToEvents": {
+    "18": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "SEMESTERS"
+      }
+    ],
+    "27": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "BLOSSOM"
+      }
+    ]
   },
   "dayToWeather": {
     "12": {

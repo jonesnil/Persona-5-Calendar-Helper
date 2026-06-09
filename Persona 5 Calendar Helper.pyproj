@@ -27,6 +27,8 @@
     <Content Include="AprilSettings.json" />
     <Content Include="AugustSettings.json" />
     <Content Include="DecemberSettings.json" />
+    <Content Include="FebruarySettings.json" />
+    <Content Include="JanuarySettings.json" />
     <Content Include="JulySettings.json" />
     <Content Include="JuneSettings.json" />
     <Content Include="MaySettings.json" />

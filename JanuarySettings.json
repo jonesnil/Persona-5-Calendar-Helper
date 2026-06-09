@@ -1,0 +1,152 @@
+{
+  "startingDate": 1,
+  "startingOutOfMonth": 0,
+  "lastOutOfMonthDate": 0,
+  "previousMonth": "December",
+  "previousMonthNum": 12,
+  "currentMonth": "January",
+  "currentMonthNum": 1,
+  "currentMonthEndDate": 31,
+  "nextMonth": "February",
+  "nextMonthNum": 2,
+  "year": "2017",
+  "dayToEvents": {
+    "14": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "RESOLUTION"
+      }
+    ],
+    "15": [
+      {
+        "Type": "Jazz Club",
+        "Title": "Ali Dance",
+        "Footnote": "Halves the Hit-Rate against all incoming attacks."
+      }
+    ],
+    "19": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "DIONYSUS"
+      }
+    ],
+    "22": [
+      {
+        "Type": "Jazz Club",
+        "Title": "Arms Master",
+        "Footnote": "Halves the HP cost for Physical or Gun skills."
+      }
+    ],
+    "23": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "LACHESIS"
+      }
+    ],
+    "27": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "OROCHI"
+      }
+    ],
+    "29": [
+      {
+        "Type": "Jazz Club",
+        "Title": "Spell Master",
+        "Footnote": "Halves SP cost for Magic skills."
+      }
+    ]
+  },
+  "dayToWeather": {
+    "8": {
+      "WeatherDay": "Cloudy",
+      "WeatherNight": "Snow"
+    },
+    "11": {
+      "WeatherDay": "Cloudy",
+      "WeatherNight": "Snow"
+    },
+    "16": {
+      "WeatherDay": "Cloudy",
+      "WeatherNight": "Snow"
+    },
+    "17": {
+      "WeatherDay": "Rain",
+      "WeatherNight": "Rain"
+    },
+    "20": {
+      "WeatherDay": "Rain",
+      "WeatherNight": "Snow"
+    },
+    "26": {
+      "WeatherDay": "Cold Wave",
+      "WeatherNight": "Cold Wave"
+    },
+    "27": {
+      "WeatherDay": "Cold Wave",
+      "WeatherNight": "Cloudy"
+    },
+    "29": {
+      "WeatherDay": "Snow",
+      "WeatherNight": "Snow"
+    },
+    "30": {
+      "WeatherDay": "Snow",
+      "WeatherNight": "Snow"
+    }
+  },
+  "dayToFreeTime": {
+    "1": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "2": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "3": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "4": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "5": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "6": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "7": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "8": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "9": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "10": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "11": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "12": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    }
+  }
+}

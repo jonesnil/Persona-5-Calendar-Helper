@@ -11,6 +11,62 @@
   "nextMonthNum": 9,
   "year": "2016",
   "dayToEvents": {
+    "3": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "ISLAND"
+      }
+    ],
+    "7": [
+      {
+        "Type": "Jazz Club",
+        "Title": "Matarunda",
+        "Footnote": "Decreases all foes' Attack power by 40% for 3 turns."
+      }
+    ],
+    "8": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "COURAGE"
+      }
+    ],
+    "14": [
+      {
+        "Type": "Jazz Club",
+        "Title": "Marakunda",
+        "Footnote": "Decreases all foes' Defense by 40% for 3 turns."
+      }
+    ],
+    "17": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "SUNBURN"
+      }
+    ],
+    "25": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "SWELTERING"
+      }
+    ],
+    "28": [
+      {
+        "Type": "Jazz Club",
+        "Title": "Masukunda",
+        "Footnote": "Decreases all foes' Hit/Evasion by 30% for 3 turns."
+      }
+    ],
+    "30": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "HACKING"
+      }
+    ]
   },
   "dayToWeather": {
     "1": {

@@ -2,7 +2,7 @@ import json
 
 months = []
 
-settingsFiles = ["AprilSettings.json", "MaySettings.json", "JuneSettings.json", "JulySettings.json", "AugustSettings.json", "SeptemberSettings.json", "OctoberSettings.json", "NovemberSettings.json", "DecemberSettings.json"]
+settingsFiles = ["AprilSettings.json", "MaySettings.json", "JuneSettings.json", "JulySettings.json", "AugustSettings.json", "SeptemberSettings.json", "OctoberSettings.json", "NovemberSettings.json", "DecemberSettings.json", "JanuarySettings.json", "FebruarySettings.json"]
 
 for settings in settingsFiles:
     with open(settings, "r") as f:
@@ -93,6 +93,7 @@ for settings in settingsFiles:
           "Year": year,
           "Month": currentMonth,
           "Number": currentMonthNum,
+          "MonthBeginIndex": (lastOutOfMonthDate - startingDate) + 1 if startingOutOfMonth else 0,
           "Weeks": weeks
     })
 

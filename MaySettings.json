@@ -11,6 +11,41 @@
   "nextMonthNum": 6,
   "year": "2016",
   "dayToEvents": {
+    "2": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "GOLDEN"
+      }
+    ],
+    "10": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "MALAISE"
+      }
+    ],
+    "18": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "GALLERY"
+      }
+    ],
+    "26": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "POLLENOSIS"
+      }
+    ],
+    "31": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "JAPANESE"
+      }
+    ]
   },
   "dayToWeather": {
     "9": {

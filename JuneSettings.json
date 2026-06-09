@@ -11,6 +11,48 @@
   "nextMonthNum": 7,
   "year": "2016",
   "dayToEvents": {
+    "3": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "MASTER"
+      }
+    ],
+    "7": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "CONFERENCE"
+      }
+    ],
+    "16": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "WARDROBE"
+      }
+    ],
+    "22": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "CURRENCY"
+      }
+    ],
+    "26": [
+      {
+        "Type": "Jazz Club",
+        "Title": "Tetrakarn",
+        "Footnote": "Erects a shield on 1 ally to repel 1 (non-Almighty) Physical or Gun attack."
+      }
+    ],
+    "30": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "FRONT"
+      }
+    ]
   },
   "dayToWeather": {
     "1": {

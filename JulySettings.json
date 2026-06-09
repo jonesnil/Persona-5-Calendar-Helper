@@ -11,6 +11,55 @@
   "nextMonthNum": 8,
   "year": "2016",
   "dayToEvents": {
+    "3": [
+      {
+        "Type": "Jazz Club",
+        "Title": "Matarukaja",
+        "Footnote": "Increases party's Attack power by 40% for 3 turns."
+      }
+    ],
+    "7": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "NARCOTICS"
+      }
+    ],
+    "12": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "VACATION"
+      }
+    ],
+    "17": [
+      {
+        "Type": "Jazz Club",
+        "Title": "Marakukuja",
+        "Footnote": "Increases party's Defense by 40% for 3 turns."
+      }
+    ],
+    "19": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "FINALS"
+      }
+    ],
+    "27": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "FIREWORKS"
+      }
+    ],
+    "31": [
+      {
+        "Type": "Jazz Club",
+        "Title": "Masukukaja",
+        "Footnote": "Increases party's Hit/Evasion by 30% for 3 turns."
+      }
+    ]
   },
   "dayToWeather": {
     "4": {
