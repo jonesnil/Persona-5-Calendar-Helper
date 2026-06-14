@@ -18,11 +18,39 @@
         "Footnote": "TYPHOON"
       }
     ],
+    "3": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Prosperity"
+      }
+    ],
     "4": [
       {
         "Type": "Jazz Club",
         "Title": "Charge",
         "Footnote": "Multiplies user's next Physical or Gun attack damage by 2.5."
+      }
+    ],
+    "6": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Chronostasis"
+      }
+    ],
+    "14": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Money loans for collateral"
+      }
+    ],
+    "17": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Cats eating human tongues"
       }
     ],
     "19": [
@@ -37,6 +65,20 @@
         "Footnote": "FESTIVAL"
       }
     ],
+    "21": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Central Europe"
+      }
+    ],
+    "24": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "20 white, 12 black"
+      }
+    ],
     "25": [
       {
         "Type": "Jazz Club",
@@ -46,9 +88,21 @@
     ],
     "28": [
       {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "ListDetails": [ "Phantom", "Vibration", "Syndrome" ]
+      },
+      {
         "Type": "Puzzle",
         "Title": "Crossword",
         "Footnote": "RANKING"
+      }
+    ],
+    "29": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Imperial Household Agency"
       }
     ]
   },

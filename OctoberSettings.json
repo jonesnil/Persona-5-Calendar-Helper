@@ -18,7 +18,19 @@
         "Footnote": "Erects a shield on 1 ally to repel 1 (non-Almighty) Physical or Gun attack."
       }
     ],
+    "3": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Stars"
+      }
+    ],
     "6": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Joseph-Ignace Guillotin"
+      },
       {
         "Type": "Puzzle",
         "Title": "Crossword",
@@ -40,6 +52,11 @@
       }
     ],
     "11": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Bouba"
+      },
       {
         "Type": "Story",
         "Title": "Mission Deadline",
@@ -74,6 +91,13 @@
         "ListDetails": [ "Slave labor", "3 bees in all of Europe" ]
       }
     ],
+    "22": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "15"
+      }
+    ],
     "23": [
       {
         "Type": "Jazz Club",
@@ -82,6 +106,11 @@
       }
     ],
     "24": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Memory bias"
+      },
       {
         "Type": "Exam",
         "Title": "Exam Scores"

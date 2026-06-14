@@ -11,11 +11,18 @@
   "nextMonthNum": 5,
   "year": "2016",
   "dayToEvents": {
+    "12": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Villains"
+      }
+    ],
     "18": [
       {
         "Type": "Story",
         "Title": "Mission Start",
-        "Details":  "Kamoshida's Palace"
+        "Details": "Kamoshida's Palace"
       },
       {
         "Type": "Puzzle",
@@ -23,11 +30,44 @@
         "Footnote": "SEMESTERS"
       }
     ],
+    "19": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "They're the same"
+      }
+    ],
+    "23": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "All of them"
+      }
+    ],
+    "25": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "ListDetails": [ "You unquestioningly support it", "You have a duty to correct it" ]
+      }
+    ],
     "27": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Four Color Theorem"
+      },
       {
         "Type": "Puzzle",
         "Title": "Crossword",
         "Footnote": "BLOSSOM"
+      }
+    ],
+    "30": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "ListDetails": [ "Wonder", "Child", "A prodigy" ]
       }
     ]
   },

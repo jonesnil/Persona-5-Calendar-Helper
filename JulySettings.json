@@ -11,6 +11,13 @@
   "nextMonthNum": 8,
   "year": "2016",
   "dayToEvents": {
+    "1": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Barbarian's head"
+      }
+    ],
     "3": [
       {
         "Type": "Jazz Club",
@@ -18,7 +25,19 @@
         "Footnote": "Increases party's Attack power by 40% for 3 turns."
       }
     ],
+    "4": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Julius and Augustus"
+      }
+    ],
     "7": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "ListDetails": [ "The Milky Way", "Soumen noodles" ]
+      },
       {
         "Type": "Puzzle",
         "Title": "Crossword",
@@ -27,12 +46,29 @@
     ],
     "9": [
       {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "A triangle"
+      },
+      {
         "Type": "Story",
         "Title": "Mission Deadline",
         "Details": "Day of Photo Leak"
       }
     ],
+    "11": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "ListDetails": [ "Memories that last a long time", "Infinite", "Forever" ]
+      }
+    ],
     "12": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Thievery"
+      },
       {
         "Type": "Puzzle",
         "Title": "Crossword",

@@ -67,6 +67,10 @@ for settings in settingsFiles:
                             event["Details"] = "Exam scores posted today!"
                         if event["Type"] == "Exam" and "ListDetails" in event:
                             event["Details"] = "Here are the answers to the prompts in order:"
+                        if event["Type"] == "Class" and "ListDetails" in event:
+                            event["Details"] = "Here are the answers to the prompts in order:"
+                        elif event["Type"] == "Class":
+                            event["Details"] = f"The answer to the prompt is: '{event['Footnote']}.'"
                         events.append(event)
 
                 if dateIndexKey in dayToWeather:

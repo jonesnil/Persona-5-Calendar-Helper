@@ -23,7 +23,19 @@
         "Details": "Day of Expulsion"
       }
     ],
+    "7": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Fatal woman"
+      }
+    ],
     "10": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "The Heian period"
+      },
       {
         "Type": "Puzzle",
         "Title": "Crossword",
@@ -51,6 +63,13 @@
         "ListDetails": [ "The Devil's Dictionary", "Femme Fatale" ]
       }
     ],
+    "16": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "The placebo effect"
+      }
+    ],
     "18": [
       {
         "Type": "Story",
@@ -63,13 +82,39 @@
         "Footnote": "GALLERY"
       }
     ],
+    "19": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Hokusai Katsushika"
+      }
+    ],
     "20": [
       {
         "Type": "Exam",
         "Title": "Exam Scores"
       }
     ],
+    "21": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "1:1.414"
+      }
+    ],
+    "23": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "ListDetails": [ "Together", "Senses", "Senses coming together" ]
+      }
+    ],
     "26": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Arthur Conan Doyle"
+      },
       {
         "Type": "Puzzle",
         "Title": "Crossword",
@@ -77,6 +122,11 @@
       }
     ],
     "31": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "John Silver"
+      },
       {
         "Type": "Puzzle",
         "Title": "Crossword",

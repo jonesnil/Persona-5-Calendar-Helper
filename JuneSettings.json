@@ -18,6 +18,13 @@
         "Footnote": "MASTER"
       }
     ],
+    "4": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "The halo effect"
+      }
+    ],
     "5": [
       {
         "Type": "Story",
@@ -27,9 +34,35 @@
     ],
     "7": [
       {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "The number of legs"
+      },
+      {
         "Type": "Puzzle",
         "Title": "Crossword",
         "Footnote": "CONFERENCE"
+      }
+    ],
+    "8": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Controlling public thought"
+      }
+    ],
+    "13": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Green"
+      }
+    ],
+    "15": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Coins"
       }
     ],
     "16": [
@@ -37,6 +70,13 @@
         "Type": "Puzzle",
         "Title": "Crossword",
         "Footnote": "WARDROBE"
+      }
+    ],
+    "20": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Smartphone"
       }
     ],
     "21": [
@@ -53,11 +93,32 @@
         "Footnote": "CURRENCY"
       }
     ],
+    "23": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "A pope"
+      }
+    ],
     "26": [
       {
         "Type": "Jazz Club",
         "Title": "Tetrakarn",
         "Footnote": "Erects a shield on 1 ally to repel 1 (non-Almighty) Physical or Gun attack."
+      }
+    ],
+    "27": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Dogs"
+      }
+    ],
+    "29": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Gold"
       }
     ],
     "30": [

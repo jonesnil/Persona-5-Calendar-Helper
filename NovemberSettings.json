@@ -11,7 +11,19 @@
   "nextMonthNum": 12,
   "year": "2016",
   "dayToEvents": {
+    "2": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "A share of stolen goods"
+      }
+    ],
     "4": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "A sword"
+      },
       {
         "Type": "Puzzle",
         "Title": "Crossword",
@@ -25,6 +37,27 @@
         "Footnote": "Decreases all foes' Attack power by 40% for 3 turns."
       }
     ],
+    "8": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Any age"
+      }
+    ],
+    "10": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Crows eyes are hard to see"
+      }
+    ],
+    "12": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Because the voice is synthetic"
+      }
+    ],
     "13": [
       {
         "Type": "Jazz Club",
@@ -34,9 +67,28 @@
     ],
     "14": [
       {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Because of high altitude"
+      },
+      {
         "Type": "Puzzle",
         "Title": "Crossword",
         "Footnote": "BASHING"
+      }
+    ],
+    "15": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "His head was put on display"
+      }
+    ],
+    "17": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Cochleoid"
       }
     ],
     "20": [

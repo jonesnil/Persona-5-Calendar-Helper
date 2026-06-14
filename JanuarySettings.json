@@ -11,6 +11,13 @@
   "nextMonthNum": 2,
   "year": "2017",
   "dayToEvents": {
+    "11": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "ListDetails": [ "How numerous they are", "The Eight Million Gods" ]
+      }
+    ],
     "13": [
       {
         "Type": "Story",
@@ -19,6 +26,11 @@
       }
     ],
     "14": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Iwate"
+      },
       {
         "Type": "Puzzle",
         "Title": "Crossword",
@@ -32,11 +44,25 @@
         "Footnote": "Halves the Hit-Rate against all incoming attacks."
       }
     ],
+    "18": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "Impressive"
+      }
+    ],
     "19": [
       {
         "Type": "Puzzle",
         "Title": "Crossword",
         "Footnote": "DIONYSUS"
+      }
+    ],
+    "21": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "A snake"
       }
     ],
     "22": [
@@ -53,7 +79,19 @@
         "Footnote": "LACHESIS"
       }
     ],
+    "24": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "ListDetails": [ "Kind-hearted", "Negative", "Resentful" ]
+      }
+    ],
     "27": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "To friends of friends of friends"
+      },
       {
         "Type": "Puzzle",
         "Title": "Crossword",
