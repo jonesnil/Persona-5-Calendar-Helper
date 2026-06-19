@@ -44,6 +44,56 @@
         "Footnote": "All of them"
       }
     ],
+    "24": [
+      {
+        "Type": "TV",
+        "Title": "TV Shop",
+        "AccordionDetails": [
+          {
+            "Name": "Spring Awake Set",
+            "Price": "1,680",
+            "AccordionElements": [
+              {
+                "Header": "Caffeine Patch x1",
+                "Type": "Accessory",
+                "Body": "A patch that keeps one awake and alert. (Resist Sleep)"
+              },
+              {
+                "Header": "Wide Eye Drops x10",
+                "Type": "Battle recovery",
+                "Body": "Eye drops that help you see straight. Cures Dizzy for one ally."
+              },
+              {
+                "Header": "Hot and Sour Tea x10",
+                "Type": "Battle recovery",
+                "Body": "A tea that blasts away drowsiness. Cures Sleep for one ally."
+              }
+            ]
+          },
+          {
+            "Name": "Share of Spring Set",
+            "Price": "5,980",
+            "AccordionElements": [
+              {
+                "Header": "Sakura Mochi x5",
+                "Type": "SP",
+                "Body": "Ultimate sakura-mocha made by a famous confectioner. Restores 10 SP to one ally."
+              },
+              {
+                "Header": "Spring Fruit Pack x1",
+                "Type":  "Food",
+                "Body": "Spring-only. Filled with with fruits. Restores 80 HP to all allies."
+              },
+              {
+                "Header": "Party in a Can x1",
+                "Type": "Food",
+                "Body": "Canned food to be eaten as a group. Restores 40 HP to all allies."
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "25": [
       {
         "Type": "Class",

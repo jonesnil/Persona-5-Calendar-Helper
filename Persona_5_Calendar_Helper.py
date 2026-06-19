@@ -67,6 +67,8 @@ for settings in settingsFiles:
                             event["Details"] = "Exam scores posted today!"
                         if event["Type"] == "Exam" and "ListDetails" in event:
                             event["Details"] = "Here are the answers to the prompts in order:"
+                        if event["Type"] == "TV" and event["Title"] == "TV Shop":
+                            event["Details"] = "Tune into the home shopping program on a TV in Leblanc for a choice between these two packages:"
                         if event["Type"] == "Class" and "ListDetails" in event:
                             event["Details"] = "Here are the answers to the prompts in order:"
                         elif event["Type"] == "Class":

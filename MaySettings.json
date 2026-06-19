@@ -11,6 +11,51 @@
   "nextMonthNum": 6,
   "year": "2016",
   "dayToEvents": {
+    "1": [
+      {
+        "Type": "TV",
+        "Title": "TV Shop",
+        "AccordionDetails": [
+          {
+            "Name": "Military Ration Set",
+            "Price": "1,980",
+            "AccordionElements": [
+              {
+                "Header": "Torimeshi Ration x3",
+                "Type": "Battle recovery",
+                "Body": "Food to go. Both tasty and satiating. Restores 50 HP and cures Hunger for one ally."
+              },
+              {
+                "Header": "MRE Ration x2",
+                "Type": "Battle recovery",
+                "Body": "Food to go. Restores 30% HP to one ally, lowers Attack, raises Accuracy/Evasion."
+              },
+              {
+                "Header": "Beef Patty Ration x2",
+                "Type": "Battle recovery",
+                "Body": "Canned a while ago. Restores 10% SP to one ally and lowers Defense."
+              }
+            ]
+          },
+          {
+            "Name": "Muscle Workout Set",
+            "Price": "4,980",
+            "AccordionElements": [
+              {
+                "Header": "Protein x2",
+                "Type": "Food",
+                "Body": "Enhances Gym Training; Restores 30% HP to one ally."
+              },
+              {
+                "Header": "Moist Protein x2",
+                "Type": "Food",
+                "Body": "Rainy day-only. Helps training. Restores 30% HP to one ally."
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "2": [
       {
         "Type": "Puzzle",
@@ -28,6 +73,51 @@
         "Type": "Class",
         "Title": "Pop Quiz",
         "Footnote": "Fatal woman"
+      }
+    ],
+    "8": [
+      {
+        "Type": "TV",
+        "Title": "TV Shop",
+        "AccordionDetails": [
+          {
+            "Name": "Relaxation Set",
+            "Price": "4,600",
+            "AccordionElements": [
+              {
+                "Header": "Recover Oil x1",
+                "Type": "Battle recovery",
+                "Body": "Cures all non-special ailments for one ally."
+              },
+              {
+                "Header": "Relax Gel x3",
+                "Type": "Battle recovery",
+                "Body": "Topical balm for Rage/Despair/Brainwash/Fear/Confuse for one ally."
+              },
+              {
+                "Header": "Alert Capsule x3",
+                "Type": "Battle recovery",
+                "Body": "A capsule that cures Dizzy/Forget/Sleep/Hunger for one ally."
+              }
+            ]
+          },
+          {
+            "Name": "Bio Nutrients Set",
+            "Price": "2,680",
+            "AccordionElements": [
+              {
+                "Header": "Mega Fertilizer x1",
+                "Type": "Other",
+                "Body": "A premium plant nutrient. For those who want serious care for their plants."
+              },
+              {
+                "Header": "Garden Energy x5",
+                "Type": "Other",
+                "Body": "A cheap plant nutrient. For those who want basic care for their plants."
+              }
+            ]
+          }
+        ]
       }
     ],
     "10": [
@@ -61,6 +151,46 @@
         "Type": "Exam",
         "Title": "Midterm Exams",
         "ListDetails": [ "The Devil's Dictionary", "Femme Fatale" ]
+      }
+    ],
+    "15": [
+      {
+        "Type": "TV",
+        "Title": "TV Shop",
+        "AccordionDetails": [
+          {
+            "Name": "Allergy Relief Pack",
+            "Price": "1,680",
+            "AccordionElements": [
+              {
+                "Header": "Calming Mask x2",
+                "Type": "Accessory",
+                "Body": "An innately soothing mask. (Resist Confuse)"
+              },
+              {
+                "Header": "Wide Eye Drops x20",
+                "Type": "Battle recovery",
+                "Body": "Eye drops that help you see straight. Cures Dizzy for one ally."
+              }
+            ]
+          },
+          {
+            "Name": "Cosmetic Cure Gift",
+            "Price": "14,800",
+            "AccordionElements": [
+              {
+                "Header": "Aroma Machine x1",
+                "Type": "Gift",
+                "Body": "A palm-sized machine that dispenses fragrance and moisture. For desk workers."
+              },
+              {
+                "Header": "Omni-Vitamin x1",
+                "Type": "Gift",
+                "Body": "Vitamins that cover all the bases of health. For the busybody."
+              }
+            ]
+          }
+        ]
       }
     ],
     "16": [
@@ -102,6 +232,56 @@
         "Footnote": "1:1.414"
       }
     ],
+    "22": [
+      {
+        "Type": "TV",
+        "Title": "TV Shop",
+        "AccordionDetails": [
+          {
+            "Name": "Muscle Plus Set",
+            "Price": "4,980",
+            "AccordionElements": [
+              {
+                "Header": "Stronger Lift S x2",
+                "Type": "Battle effect",
+                "Body": "Raises Attack for one ally for 3 turns."
+              },
+              {
+                "Header": "Harder Core S x2",
+                "Type": "Battle effect",
+                "Body": "Raises Defense for one ally for 3 turns."
+              },
+              {
+                "Header": "Accu-Speed S x2",
+                "Type": "Battle effect",
+                "Body": "Raises Accuracy/Evasion for one ally for 3 turns."
+              }
+            ]
+          },
+          {
+            "Name": "Outdoors Kit",
+            "Price": "7,980",
+            "AccordionElements": [
+              {
+                "Header": "Blowtorch x3",
+                "Type": "Battle effect",
+                "Body": "Deals 50 Fire damage to all foes."
+              },
+              {
+                "Header": "Dry Ice x3",
+                "Type": "Battle effect",
+                "Body": "Deals 50 Ice damage to all foes."
+              },
+              {
+                "Header": "Magneto Coil x3",
+                "Type": "Battle effect",
+                "Body": "Deals 50 Elec damage to all foes."
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "23": [
       {
         "Type": "Class",
@@ -119,6 +299,52 @@
         "Type": "Puzzle",
         "Title": "Crossword",
         "Footnote": "POLLENOSIS"
+      }
+    ],
+    "29": [
+
+      {
+        "Type": "TV",
+        "Title": "TV Shop",
+        "AccordionDetails": [
+          {
+            "Name": "Japanese Gift Set",
+            "Price": "3,980",
+            "AccordionElements": [
+              {
+                "Header": "Sakura Fan x 1",
+                "Type": "Gift",
+                "Body": "A small fan with a bright sakura pattern. For a traditional lady."
+              },
+              {
+                "Header": "Katana Keychain x1",
+                "Type": "Gift",
+                "Body": "A katana keychain with a dragon design. For the young man at heart."
+              },
+              {
+                "Header": "Uji Matcha Flan x1",
+                "Type": "Gift",
+                "Body": "Pudding made from uji matcha green tea. For the sweet tooth."
+              }
+            ]
+          },
+          {
+            "Name": "Folding Screen Set",
+            "Price": "4,980",
+            "AccordionElements": [
+              {
+                "Header": "Elecproof Choker x1",
+                "Type": "Accessory",
+                "Body": "A choker that avoids electric attacks. (Dodge Elec)"
+              },
+              {
+                "Header": "Windproof Choker",
+                "Type": "Accessory",
+                "Body": "A choker that avoids wind attacks. (Dodge Wind)"
+              }
+            ]
+          }
+        ]
       }
     ],
     "31": [
