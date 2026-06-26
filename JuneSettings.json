@@ -72,6 +72,46 @@
         "Footnote": "WARDROBE"
       }
     ],
+    "19": [
+      {
+        "Type": "TV",
+        "Title": "TV Shop",
+        "AccordionDetails": [
+          {
+            "Name": "Supportive Gift Set",
+            "Price": "9,980",
+            "AccordionElements": [
+              {
+                "Header": "Blaring Alarm Clock x1",
+                "Type": "Gift",
+                "Body": "Ultra-loud clock to wake up any sleepyhead. For the busy businessperson."
+              },
+              {
+                "Header": "Face Beautifier x1",
+                "Type": "Gift",
+                "Body": "A face massager that can slim your face quickly. For the rising star."
+              }
+            ]
+          },
+          {
+            "Name": "Busy Revival Set",
+            "Price": "9,980",
+            "AccordionElements": [
+              {
+                "Header": "Revivadrin x3",
+                "Type": "Battle recovery",
+                "Body": "Revives one fallen ally with 50% HP."
+              },
+              {
+                "Header": "Recov-R: 100mg x10",
+                "Type": "Battle recovery",
+                "Body": "Restores 100 HP to 1 ally."
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "20": [
       {
         "Type": "Class",
@@ -101,6 +141,44 @@
       }
     ],
     "26": [
+      {
+        "Type": "TV",
+        "Title": "TV Shop",
+        "AccordionDetails": [
+          {
+            "Name": "Dark Power Set",
+            "Price": "1,980",
+            "AccordionElements": [
+              {
+                "Header": "Black Rock x2",
+                "Type": "Accessory",
+                "Body": "A stone with the power to transmutate."
+              },
+              {
+                "Header": "Black Robe x1",
+                "Type": "Armor",
+                "Body": "A black robe with the power to transmutate."
+              }
+            ]
+          },
+          {
+            "Name": "Cursed Tools Set",
+            "Price": "9,980",
+            "AccordionElements": [
+              {
+                "Header": "Five-inch Nail x3",
+                "Type": "Battle effect",
+                "Body": "Deals 50 Curse damage to all foes."
+              },
+              {
+                "Header": "Straw Doll x10",
+                "Type": "Battle effect",
+                "Body": "Medium chance of Curse insta-kill to 1 foe."
+              }
+            ]
+          }
+        ]
+      },
       {
         "Type": "Jazz Club",
         "Title": "Tetrakarn",

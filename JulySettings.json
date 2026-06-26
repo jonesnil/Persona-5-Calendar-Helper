@@ -20,6 +20,54 @@
     ],
     "3": [
       {
+        "Type": "TV",
+        "Title": "TV Shop",
+        "AccordionDetails": [
+          {
+            "Name": "Body Building Set",
+            "Price": "12,800",
+            "AccordionElements": [
+              {
+                "Header": "Imported Protein x1",
+                "Type": "Food",
+                "Body": "Enhances Gym Training; Restores 30% HP to one ally."
+              },
+              {
+                "Header": "Moist Protein x3",
+                "Type": "Food",
+                "Body": "Rainy day-only. Helps training. Restores 30% HP to one ally."
+              },
+              {
+                "Header": "Protein x3",
+                "Type": "Food",
+                "Body": "Enhances Gym Training; Restores 30% HP to one ally."
+              }
+            ]
+          },
+          {
+            "Name": "Calm Mind Set",
+            "Price": "12,800",
+            "AccordionElements": [
+              {
+                "Header": "Ambergris ST x1",
+                "Type": "Incense",
+                "Body": "Quality incense that imparts physical strength. Increases Persona's St by 2."
+              },
+              {
+                "Header": "Ambergris EN x1",
+                "Type": "Incense",
+                "Body": "Quality incense that imparts patience. Increases Persona's En by 2."
+              },
+              {
+                "Header": "Ambergris LU x1",
+                "Type": "Incense",
+                "Body": "Quality incense that imparts good fortune. Increases Persona's Lu by 2."
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Type": "Jazz Club",
         "Title": "Matarukaja",
         "Footnote": "Increases party's Attack power by 40% for 3 turns."

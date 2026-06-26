@@ -81,6 +81,50 @@
     ],
     "25": [
       {
+        "Type": "TV",
+        "Title": "TV Shop",
+        "AccordionDetails": [
+
+          {
+            "Name": "Phantom Thief Set",
+            "Price": "8,980",
+            "AccordionElements": [
+              {
+                "Header": "Calming Aroma x3",
+                "Type": "Tool",
+                "Body": "A deodorant that erases your presence, lowering a Palace's Security Level."
+              },
+              {
+                "Header": "Smokescreen x5",
+                "Type": "Tool",
+                "Body": "Elude enemy pursuit by becoming temporarily undetectable."
+              },
+              {
+                "Header": "Lockpick x5",
+                "Type": "Tool",
+                "Body": "A tool that can open one locked treasure chest."
+              }
+            ]
+          },
+          {
+            "Name": "Phantom Thief Fun Set",
+            "Price": "2,000",
+            "AccordionElements": [
+              {
+                "Header": "Phantom Wafers x5",
+                "Type": "Battle recovery",
+                "Body": "Restores 50 HP and cures ailments for one ally."
+              },
+              {
+                "Header": "Calling Postcard x3",
+                "Type": "Other",
+                "Body": "Postcard that looks just like a calling card. Slip one into your friend's mailbox!"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Type": "Jazz Club",
         "Title": "Concentrate",
         "Footnote": "Multiplies user's next magical attack damage by 2.5."

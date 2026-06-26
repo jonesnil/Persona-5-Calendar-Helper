@@ -13,6 +13,44 @@
   "dayToEvents": {
     "2": [
       {
+        "Type": "TV",
+        "Title": "TV Shop",
+        "AccordionDetails": [
+          {
+            "Name": "Pumpkin Ghost Set",
+            "Price": "14,800",
+            "AccordionElements": [
+              {
+                "Header": "Lantern Necklace x1",
+                "Type": "Accessory",
+                "Body": "A jack-o-lantern necklace that enhances fire attacks. (Fire Amp)"
+              },
+              {
+                "Header": "Pumpkin Soup x5",
+                "Type": "Food",
+                "Body": "A packet of thick pumpkin soup. Restores 100 HP to one ally."
+              }
+            ]
+          },
+          {
+            "Name": "Haunted Repel Set",
+            "Price": "9,980",
+            "AccordionElements": [
+              {
+                "Header": "Baptismal Water x5",
+                "Type": "Battle effect",
+                "Body": "Water used for rituals. Removes all stat buffs for all foes."
+              },
+              {
+                "Header": "Exorcism Water x5",
+                "Type": "Battle effect",
+                "Body": "Purified holy water. Removes all stat debuffs for all allies."
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Type": "Jazz Club",
         "Title": "Tetrakarn",
         "Footnote": "Erects a shield on 1 ally to repel 1 (non-Almighty) Physical or Gun attack."

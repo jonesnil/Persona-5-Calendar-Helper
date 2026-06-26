@@ -32,6 +32,44 @@
     ],
     "6": [
       {
+        "Type": "TV",
+        "Title": "TV Shop",
+        "AccordionDetails": [
+          {
+            "Name": "Sturdy Ointment Set",
+            "Price": "19,800",
+            "AccordionElements": [
+              {
+                "Header": "Physical Ointment x3",
+                "Type": "Battle effect",
+                "Body": "Erects a barrier that repels one physical attack."
+              },
+              {
+                "Header": "Magic Ointment x3",
+                "Type": "Battle effect",
+                "Body": "Erects a barrier that repels one magical attack."
+              }
+            ]
+          },
+          {
+            "Name": "Inner Muscle Set",
+            "Price": "14,800",
+            "AccordionElements": [
+              {
+                "Header": "Salvation S x1",
+                "Type": "Battle effect",
+                "Body": "Increases ATK/DEF/Accuracy/Evasion for one ally."
+              },
+              {
+                "Header": "Hustle S x5",
+                "Type": "Battle effect",
+                "Body": "Aim-enhancing supplement. Increases chance of Critical for one ally."
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Type": "Jazz Club",
         "Title": "Matarunda",
         "Footnote": "Decreases all foes' Attack power by 40% for 3 turns."
@@ -59,6 +97,54 @@
       }
     ],
     "13": [
+      {
+        "Type": "TV",
+        "Title": "TV Shop",
+        "AccordionDetails": [
+          {
+            "Name": "Instant Spray Set",
+            "Price": "34,500",
+            "AccordionElements": [
+              {
+                "Header": "Ultimate Spray x1",
+                "Type": "Battle effect",
+                "Body": "Disinfectant that weakens any bacteria. Lowers all stats of one foe for 3 turns."
+              },
+              {
+                "Header": "Cleaning Spray x5",
+                "Type": "Battle effect",
+                "Body": "Powerful disinfectant. Decreases Defense of all foes for 3 turns."
+              },
+              {
+                "Header": "Quick Spray x5",
+                "Type": "Battle effect",
+                "Body": "Fast-acting disinfectant. Lowers Accuracy/Evasion for all foes for 3 turns."
+              }
+            ]
+          },
+          {
+            "Name": "Meditative Set",
+            "Price": "29,800",
+            "AccordionElements": [
+              {
+                "Header": "Nirvana MA x1",
+                "Type": "Incense",
+                "Body": "Mystical incense that strengthens the heart. Increases Persona's Ma by 3."
+              },
+              {
+                "Header": "Nirvana EN x1",
+                "Type": "Incense",
+                "Body": "Mystical incense that imparts patience. Increases Persona's En by 3."
+              },
+              {
+                "Header": "Nirvana LU x1",
+                "Type": "Incense",
+                "Body": "Mystical incense that imparts good fortune. Increases Persona's Lu by 3."
+              }
+            ]
+          }
+        ]
+      },
       {
         "Type": "Jazz Club",
         "Title": "Marakunda",
@@ -106,6 +192,44 @@
       }
     ],
     "27": [
+      {
+        "Type": "TV",
+        "Title": "TV Shop",
+        "AccordionDetails": [
+          {
+            "Name": "Ishiyaki Potato Set",
+            "Price": "9,800",
+            "AccordionElements": [
+              {
+                "Header": "Legendary Yaki-Imo x3",
+                "Type": "SP",
+                "Body": "A winter-only roasted sweet potato. Restores 50 SP to one ally."
+              },
+              {
+                "Header": "Beni-Azuma x10",
+                "Type": "SP",
+                "Body": "A sticky sweet potato low in fiber. Restores 10 SP to one ally."
+              }
+            ]
+          },
+          {
+            "Name": "Limited Sweets Set",
+            "Price": "4,800",
+            "AccordionElements": [
+              {
+                "Header": "Melon Pan x3",
+                "Type": "Revival",
+                "Body": "A limited product that rejuvenates. Revives one fallen ally to full HP."
+              },
+              {
+                "Header": "Moon Dango x5",
+                "Type": "HP",
+                "Body": "Autumn-only Japanese sweet. Restores 200 HP to one ally."
+              }
+            ]
+          }
+        ]
+      },
       {
         "Type": "Jazz Club",
         "Title": "Masukunda",

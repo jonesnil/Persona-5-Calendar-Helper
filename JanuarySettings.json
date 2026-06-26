@@ -39,6 +39,54 @@
     ],
     "15": [
       {
+        "Type": "TV",
+        "Title": "TV Shop",
+        "AccordionDetails": [
+          {
+            "Name": "Lucky Worker Bag",
+            "Price": "44,800",
+            "AccordionElements": [
+              {
+                "Header": "Pick-Me-Up Tie x1",
+                "Type": "Accessory",
+                "Body": "Decreases recovery time from ailments to 1 turn. (Insta-Heal)"
+              },
+              {
+                "Header": "Physical Ointment x3",
+                "Type": "Battle effect",
+                "Body": "Erects a barrier that repels one physical attack."
+              },
+              {
+                "Header": "Magic Ointment x3",
+                "Type": "Battle effect",
+                "Body": "Erects a barrier that repels one magical attack."
+              }
+            ]
+          },
+          {
+            "Name": "Lucky Muscle Bag",
+            "Price": "39,800",
+            "AccordionElements": [
+              {
+                "Header": "Imported Protein x1",
+                "Type": "Food",
+                "Body": "Enhances Gym Training; Restores 30% HP to one ally."
+              },
+              {
+                "Header": "Nirvana ST x3",
+                "Type": "Incense",
+                "Body": "Mystical incense that imparts physical strength. Increases Persona's St by 3."
+              },
+              {
+                "Header": "Hustle S x5",
+                "Type": "Battle effect",
+                "Body": "Aim-enhancing supplement. Increases chance of Critical for one ally."
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Type": "Jazz Club",
         "Title": "Ali Dance",
         "Footnote": "Halves the Hit-Rate against all incoming attacks."
@@ -67,45 +115,141 @@
     ],
     "22": [
       {
-        "Type": "Jazz Club",
-        "Title": "Arms Master",
-        "Footnote": "Halves the HP cost for Physical or Gun skills."
-      }
-    ],
-    "23": [
-      {
-        "Type": "Puzzle",
-        "Title": "Crossword",
-        "Footnote": "LACHESIS"
-      }
-    ],
-    "24": [
-      {
-        "Type": "Class",
-        "Title": "Pop Quiz",
-        "ListDetails": [ "Kind-hearted", "Negative", "Resentful" ]
-      }
-    ],
-    "27": [
-      {
-        "Type": "Class",
-        "Title": "Pop Quiz",
-        "Footnote": "To friends of friends of friends"
-      },
-      {
-        "Type": "Puzzle",
-        "Title": "Crossword",
-        "Footnote": "OROCHI"
-      }
-    ],
+        "Type": "TV",
+        "Title": "TV Shop",
+        "AccordionDetails": [
+          {
+            "Name": "Talisman Set",
+            "Price": "12,800",
+            "AccordionElements": [
+              {
+                "Header": "Rasetsu Ofuda x3",
+                "Type": "Battle effect",
+                "Body": "Raises Attack for all allies for 3 turns."
+              },
+              {
+                "Header": "Idaten Ofuda x3",
+                "Type": "Battle effect",
+                "Body": "Raises Accuracy/Evasion for all allies for 3 turns."
+              },
+              {
+                "Header": "Kongou Ofuda x3",
+                "Type": "Battle effect",
+                "Body": "Raises Defense for all allies for 3 turns."
+              }
+            ]
+          },
+          {
+            "Name": "Sweet Delight Set",
+            "Price": "29,800",
+            "AccordionElements": [
+              {
+                "Header": "Strawberry Daifuku x3",
+                "Type": "Battle recovery",
+                "Body": "Fully restores HP and cures non-special ailments for all allies."
+              },
+              {
+                "Header": "Ultimate Amazake x20",
+                "Type": "Food",
+                "Body": "Makes you think you're drunk. Restores 20 HP to one ally."
+              },
+              {
+                "Header": "Oh! Shiruko x20",
+                "Type": "Food",
+                "Body": "So good it makes you say, \"Oh!\" Restores 20 HP to one ally."
+              }
+            ]
+            }
+           ]
+          },
+          {
+            "Type": "Jazz Club",
+            "Title": "Arms Master",
+            "Footnote": "Halves the HP cost for Physical or Gun skills."
+          }
+        ],
+        "23": [
+          {
+            "Type": "Puzzle",
+            "Title": "Crossword",
+            "Footnote": "LACHESIS"
+          }
+        ],
+        "24": [
+          {
+            "Type": "Class",
+            "Title": "Pop Quiz",
+            "ListDetails": [ "Kind-hearted", "Negative", "Resentful" ]
+          }
+        ],
+        "27": [
+          {
+            "Type": "Class",
+            "Title": "Pop Quiz",
+            "Footnote": "To friends of friends of friends"
+          },
+          {
+            "Type": "Puzzle",
+            "Title": "Crossword",
+            "Footnote": "OROCHI"
+          }
+        ],
     "29": [
+      {
+        "Type": "TV",
+        "Title": "TV Shop",
+        "AccordionDetails": [
+          {
+            "Name": "Energetic Set",
+            "Price": "49,800",
+            "AccordionElements": [
+              {
+                "Header": "Salvation S x3",
+                "Type": "Battle effect",
+                "Body": "Increases ATK/DEF/Accuracy/Evasion for one ally."
+              },
+              {
+                "Header": "Stronger Lift S x5",
+                "Type": "Battle effect",
+                "Body": "Raises Attack for one ally for 3 turns."
+              },
+              {
+                "Header": "Harder Core S x5",
+                "Type": "Battle effect",
+                "Body": "Raises Defense for one ally for 3 turns."
+              },
+              {
+                "Header": "Accu-Speed S x5",
+                "Type": "Battle effect",
+                "Body": "Raises Accuracy/Evasion for one ally for 3 turns."
+              }
+            ]
+          },
+          {
+            "Name": "Delicious Revival Set",
+            "Price": "69,800",
+            "AccordionElements": [
+              {
+                "Header": "Royal Jelly R x2",
+                "Type": "Revival",
+                "Body": "Worthy of resurrecting a Hierophant. Revives all fallen allies to full HP."
+              },
+              {
+                "Header": "Melon Pan x3",
+                "Type": "Revival",
+                "Body": "A limited product that rejuvenates. Revives one fallen ally to full HP."
+              }
+            ]
+          }
+        ]
+      },
       {
         "Type": "Jazz Club",
         "Title": "Spell Master",
         "Footnote": "Halves SP cost for Magic skills."
       }
     ]
-  },
+      },
   "dayToWeather": {
     "8": {
       "WeatherDay": "Cloudy",

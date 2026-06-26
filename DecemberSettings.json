@@ -34,6 +34,54 @@
     ],
     "11": [
       {
+        "Type": "TV",
+        "Title": "TV Shop",
+        "AccordionDetails": [
+          {
+            "Name": "Super Detox Set",
+            "Price": "39,800",
+            "AccordionElements": [
+              {
+                "Header": "Refresh Aroma x3",
+                "Type": "Battle effect",
+                "Body": "Autumn-only. Cures all non-special ailments for one ally."
+              },
+              {
+                "Header": "Recover Oil x5",
+                "Type": "Battle effect",
+                "Body": "A spring-exclusive body oil. Cures all non-special ailments for one ally."
+              }
+            ]
+          },
+          {
+            "Name": "Fancy Magatama Set",
+            "Price": "16,800",
+            "AccordionElements": [
+              {
+                "Header": "Hell Magatama x3",
+                "Type": "Battle effect",
+                "Body": "Deals 150 Fire damage to one foe."
+              },
+              {
+                "Header": "Frost Magatama x3",
+                "Type": "Battle effect",
+                "Body": "Deals 150 Ice damage to one foe."
+              },
+              {
+                "Header": "Cyclone Magatama x3",
+                "Type": "Battle effect",
+                "Body": "Deals 150 Wind damage to one foe."
+              },
+              {
+                "Header": "Arc Magatama x3",
+                "Type": "Battle effect",
+                "Body": "Deals 150 Elec damage to one foe."
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Type": "Jazz Club",
         "Title": "Debilitate",
         "Footnote": "Decreases 1 foe's Attack, Defense and Hit/Evasion for 3 turns."

@@ -20,6 +20,54 @@
     ],
     "7": [
       {
+        "Type": "TV",
+        "Title": "TV Shop",
+        "AccordionDetails": [
+          {
+            "Name": "Phantom Thief Set",
+            "Price": "7,980",
+            "AccordionElements": [
+              {
+                "Header": "Lockpick x5",
+                "Type": "Tool",
+                "Body": "A tool that can open one locked treasure chest."
+              },
+              {
+                "Header": "Vanish Ball x3",
+                "Type": "Tool",
+                "Body": "Guarantees escape from battles. Not all battles apply."
+              },
+              {
+                "Header": "Smokescreen x3",
+                "Type": "Tool",
+                "Body": "Elude enemy pursuit by becoming temporarily undetectable."
+              }
+            ]
+          },
+          {
+            "Name": "Heroic Set",
+            "Price": "8,980",
+            "AccordionElements": [
+              {
+                "Header": "Vacuum Cutter x4",
+                "Type": "Battle effect",
+                "Body": "Deals 50 Wind damage to all foes."
+              },
+              {
+                "Header": "Psy-Wheel x4",
+                "Type": "Battle effect",
+                "Body": "Deals 50 Psy damage to all foes."
+              },
+              {
+                "Header": "Kagutsuchi Orb x4",
+                "Type": "Battle effect",
+                "Body": "Deals 50 Nuke damage to all foes."
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Type": "Jazz Club",
         "Title": "Matarunda",
         "Footnote": "Decreases all foes' Attack power by 40% for 3 turns."
@@ -33,6 +81,44 @@
       }
     ],
     "14": [
+      {
+        "Type": "TV",
+        "Title": "TV Shop",
+        "AccordionDetails": [
+          {
+            "Name": "Drink Set",
+            "Price": "2,980",
+            "AccordionElements": [
+              {
+                "Header": "Second Maid x20",
+                "Type": "Food",
+                "Body": "Refreshing Mandarin orange flavor. Restores 10 HP to one ally."
+              },
+              {
+                "Header": "Water of Rebirth x20",
+                "Type": "Food",
+                "Body": "Blended with placenta. Restores 5 SP to one ally."
+              }
+            ]
+          },
+          {
+            "Name": "Floral Gift Set",
+            "Price": "2,980",
+            "AccordionElements": [
+              {
+                "Header": "Glass Vase x1",
+                "Type": "Gift",
+                "Body": "A palm-sized, colorful vase made of glass. For the flower lover in your life."
+              },
+              {
+                "Header": "Flower Basket x1",
+                "Type": "Gift",
+                "Body": "A basket full of flowers from every season. For the flower lover in your life."
+              }
+            ]
+          }
+        ]
+      },
       {
         "Type": "Jazz Club",
         "Title": "Marakunda",
