@@ -16,6 +16,10 @@
         "Type": "Class",
         "Title": "Pop Quiz",
         "Footnote": "A share of stolen goods"
+      },
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
       }
     ],
     "4": [
@@ -28,6 +32,12 @@
         "Type": "Puzzle",
         "Title": "Crossword",
         "Footnote": "REWARD"
+      }
+    ],
+    "5": [
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
       }
     ],
     "6": [
@@ -87,6 +97,10 @@
         "Type": "Class",
         "Title": "Pop Quiz",
         "Footnote": "Crows eyes are hard to see"
+      },
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
       }
     ],
     "12": [
@@ -161,6 +175,10 @@
         "Type": "Puzzle",
         "Title": "Crossword",
         "Footnote": "BASHING"
+      },
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
       }
     ],
     "15": [
@@ -175,6 +193,10 @@
         "Type": "Class",
         "Title": "Pop Quiz",
         "Footnote": "Cochleoid"
+      },
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
       }
     ],
     "20": [
