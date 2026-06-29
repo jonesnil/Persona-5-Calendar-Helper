@@ -37,6 +37,12 @@
         "Footnote": "They're the same"
       }
     ],
+    "20": [ 
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
+      }
+    ],
     "23": [
       {
         "Type": "Class",
@@ -99,6 +105,10 @@
         "Type": "Class",
         "Title": "Pop Quiz",
         "ListDetails": [ "You unquestioningly support it", "You have a duty to correct it" ]
+      },
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
       }
     ],
     "27": [
@@ -118,6 +128,10 @@
         "Type": "Class",
         "Title": "Pop Quiz",
         "ListDetails": [ "Wonder", "Child", "A prodigy" ]
+      },   
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
       }
     ]
   },
