@@ -16,6 +16,10 @@
         "Type": "Class",
         "Title": "Pop Quiz",
         "Footnote": "Barbarian's head"
+      },
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
       }
     ],
     "3": [
@@ -78,6 +82,10 @@
         "Type": "Class",
         "Title": "Pop Quiz",
         "Footnote": "Julius and Augustus"
+      },
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
       }
     ],
     "7": [
@@ -90,6 +98,12 @@
         "Type": "Puzzle",
         "Title": "Crossword",
         "Footnote": "NARCOTICS"
+      }
+    ],
+    "8": [
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
       }
     ],
     "9": [

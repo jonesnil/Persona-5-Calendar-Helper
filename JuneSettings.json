@@ -16,6 +16,10 @@
         "Type": "Puzzle",
         "Title": "Crossword",
         "Footnote": "MASTER"
+      },
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
       }
     ],
     "4": [
@@ -63,6 +67,10 @@
         "Type": "Class",
         "Title": "Pop Quiz",
         "Footnote": "Coins"
+      },
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
       }
     ],
     "16": [
@@ -124,6 +132,10 @@
         "Type": "Story",
         "Title": "Mission Start",
         "Details": "Kaneshiro's Palace"
+      },
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
       }
     ],
     "22": [
@@ -138,6 +150,10 @@
         "Type": "Class",
         "Title": "Pop Quiz",
         "Footnote": "A pope"
+      },
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
       }
     ],
     "26": [
