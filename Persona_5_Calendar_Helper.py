@@ -63,6 +63,8 @@ for settings in settingsFiles:
                             event["Details"] = f"Taking a party member to the Jazz Club will teach them '{event['Title']}.'"
                         if event["Type"] == "Subway":
                             event["Details"] = "Joker is able to read on the train today."
+                        if event["Type"] == "Crane":
+                            event["Details"] = f"The {event['Footnote']} plushie is now in the crane game."
                         if event["Type"] == "Puzzle":
                             event["Details"] = f"New crossword at Leblanc! The solution is: '{event['Footnote']}.'"
                         if event["Type"] == "Exam" and event["Title"] == "Exam Scores":
