@@ -11,6 +11,12 @@
   "nextMonthNum": 10,
   "year": "2016",
   "dayToEvents": {
+    "1": [
+      {
+        "Type": "Crane",
+        "Title": "Crane Game",
+        "Footnote": "Jack Frost"}
+    ],
     "2": [
       {
         "Type": "Puzzle",
@@ -70,6 +76,13 @@
         "Type": "Class",
         "Title": "Pop Quiz",
         "Footnote": "Central Europe"
+      }
+    ],
+    "22": [
+      {
+        "Type": "Crane",
+        "Title": "Crane Game",
+        "Footnote": "Burger-kun"
       }
     ],
     "24": [
