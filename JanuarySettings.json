@@ -23,6 +23,10 @@
         "Type": "Story",
         "Title": "Mission Start",
         "Details": "Maruki's Palace"
+      },
+      {
+        "Type": "Crane",
+        "Footnote": "Buchimaru"
       }
     ],
     "14": [
@@ -177,6 +181,10 @@
             "Type": "Puzzle",
             "Title": "Crossword",
             "Footnote": "LACHESIS"
+          },
+          {
+            "Type": "Crane",
+            "Footnote": "Jagao"
           }
         ],
     "24": [

@@ -3,6 +3,8 @@ import json
 months = []
 
 settingsFiles = ["AprilSettings.json", "MaySettings.json", "JuneSettings.json", "JulySettings.json", "AugustSettings.json", "SeptemberSettings.json", "OctoberSettings.json", "NovemberSettings.json", "DecemberSettings.json", "JanuarySettings.json", "FebruarySettings.json"]
+eventTypesInOrder = ["Story", "TV", "Subway", "Class", "Exam", "Crane", "Puzzle", "JazzClub"];
+
 
 for settings in settingsFiles:
     with open(settings, "r") as f:
@@ -58,26 +60,29 @@ for settings in settingsFiles:
                 dateIndexKey = str(dateIndex)
 
                 if dateIndexKey in dayToEvents:
-                    for event in dayToEvents[dateIndexKey]:
-                        if event["Type"] == "Jazz Club":
-                            event["Details"] = f"Taking a party member to the Jazz Club will teach them '{event['Title']}.'"
-                        if event["Type"] == "Subway":
-                            event["Details"] = "Joker is able to read on the train today."
-                        if event["Type"] == "Crane":
-                            event["Details"] = f"The {event['Footnote']} plushie is now in the crane game."
-                        if event["Type"] == "Puzzle":
-                            event["Details"] = f"New crossword at Leblanc! The solution is: '{event['Footnote']}.'"
-                        if event["Type"] == "Exam" and event["Title"] == "Exam Scores":
-                            event["Details"] = "Exam scores posted today!"
-                        if event["Type"] == "Exam" and "ListDetails" in event:
-                            event["Details"] = "Here are the answers to the prompts in order:"
-                        if event["Type"] == "TV" and event["Title"] == "TV Shop":
-                            event["Details"] = "Tune into the home shopping program on a TV in Leblanc for a choice between these two packages:"
-                        if event["Type"] == "Class" and "ListDetails" in event:
-                            event["Details"] = "Here are the answers to the prompts in order:"
-                        elif event["Type"] == "Class":
-                            event["Details"] = f"The answer to the prompt is: '{event['Footnote']}.'"
-                        events.append(event)
+                    for eventType in eventTypesInOrder:
+                        for event in dayToEvents[dateIndexKey]:
+                            if(event["Type"] == eventType):
+                                if event["Type"] == "Jazz Club":
+                                    event["Details"] = f"Taking a party member to the Jazz Club will teach them '{event['Title']}.'"
+                                if event["Type"] == "Subway":
+                                    event["Details"] = "Joker is able to read on the train today."
+                                if event["Type"] == "Crane":
+                                    event["Title"] = f"{event['Footnote']} Doll"
+                                    event["Details"] = f"The {event['Footnote']} doll is now in the crane game at the arcade in Akihibara (If you collected previous dolls already.)"
+                                if event["Type"] == "Puzzle":
+                                    event["Details"] = f"New crossword at Leblanc! The solution is: '{event['Footnote']}.'"
+                                if event["Type"] == "Exam" and event["Title"] == "Exam Scores":
+                                    event["Details"] = "Exam scores posted today!"
+                                if event["Type"] == "Exam" and "ListDetails" in event:
+                                    event["Details"] = "Here are the answers to the prompts in order:"
+                                if event["Type"] == "TV" and event["Title"] == "TV Shop":
+                                    event["Details"] = "Tune into the home shopping program on a TV in Leblanc for a choice between these two packages:"
+                                if event["Type"] == "Class" and "ListDetails" in event:
+                                    event["Details"] = "Here are the answers to the prompts in order:"
+                                elif event["Type"] == "Class":
+                                    event["Details"] = f"The answer to the prompt is: '{event['Footnote']}.'"
+                                events.append(event)
 
                 if dateIndexKey in dayToWeather:
                     currentDay["WeatherDay"] = dayToWeather[dateIndexKey]["WeatherDay"]
