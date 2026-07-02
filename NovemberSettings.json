@@ -22,6 +22,13 @@
         "Title": "Train Reading"
       }
     ],
+    "3": [
+      {
+        "Type": "Crane",
+        "Title": "Crane Game",
+        "Footnote": "Lexy"
+      }
+    ],
     "4": [
       {
         "Type": "Class",
@@ -211,6 +218,11 @@
         "Type": "Story",
         "Title": "Mission Start",
         "Details": "Shido's Palace"
+      },
+      {
+        "Type": "Crane",
+        "Title": "Crane Game",
+        "Footnote": "Sheep man"
       }
     ],
     "27": [
